@@ -1,0 +1,18 @@
+,name,rating,cuisine,price,location,longitude,latitude,cuisine category
+0,The Garden @ Sentosa,5.0,Modern European,3,Sentosa,103.8303209,1.2494041,Western
+179,Shang Palace,4.4,"Cantonese, Dim Sum",3,Tanglin,103.8188845,1.306932,Other
+203,Al Borgo Italian Restaurant,4.0,Italian,2,Bukit Timah,103.8020777,1.3294113,Italian
+204,Kazbar,4.6,"Bars, Middle Eastern",3,Raffles Place,103.8513447,1.2844837,Middle Eastern
+207,The Dempsey Cookhouse & Bar,3.9,Asian Fusion,3,Dempsey Hill,103.8098603,1.3039916,Other
+216,Super Siam Thai Restaurant,4.0,Thai,1,Clarke Quay,103.8464742,1.2906024,Other
+217,Employees Only,4.2,"Bars, American",3,Raffles Place,103.8513447,1.2844837,Western
+218,Su Korean Cuisine,5.0,Korean,1,Orchard,not available,not available,Other
+219,The Clueless Goat,4.1,"Coffee & Tea, Breakfast & Brunch",1,Novena,not available,not available,Other
+220,Saveur,4.0,"French, Desserts",2,Bugis,not available,not available,French
+221,Tandoori Corner North Indian Curry House,4.4,Indian,2,Novena,not available,not available,Indian
+222,Goldhill Family Restruant,5.0,Singaporean,1,Hougang,103.8862529,1.3612182,Singaporean
+223,Sanpoutei Ramen,4.1,Ramen,2,Holland Village,103.7951937,1.310912,Japanese
+224,Syun,4.4,Japanese,3,Sentosa,103.8303209,1.2494041,Japanese
+230,The Butcher's Wife,4.5,not available,not available,"19 Yong Siak St, Singapore 168650",103.8301992,1.2827407,Other
+235,Loulou - French Cuisine & Wine Bar,4.5,French,not available,"6 Keong Saik Rd., Singapore 089114",103.841602,1.2794509,French
+242,Angie's Oyster Bar & Grill,4.2,not available,not available,"313 Outram Rd, #02-01 Tan Boon Liat Building, Singapore 169073",103.8346657,1.2871692,Other

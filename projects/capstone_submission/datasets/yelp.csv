@@ -1,0 +1,231 @@
+,restaurant number,name,rating,cuisine,price,location
+0,1,11. The Garden @ Sentosa,5.0 ,Modern European,$$$,Sentosa
+1,2,12. Tian Tian Seafood Restaurant,4.7 ,"Seafood, Chinese",$$,Tiong Bahru
+2,3,13. Song Fa Bak Kut Teh,4.6 ,"Chinese, Singaporean",$,Chinatown
+3,4,14. Zhong Guo La Mian Xiao Long Bao,4.4 ,"Shanghainese, Dim Sum, Noodles",$,Chinatown
+4,5,15. La Strada,4.4 ,Italian,$$$,Tanglin
+5,6,16. Wee Nam Kee Chicken Rice,4.3 ,"Chicken Shop, Hainan",$,Novena
+6,7,17. Two Men Bagel House,4.5 ,"Bagels, Breakfast & Brunch, Sandwiches",$,Tanjong Pagar
+7,8,18. Going Om,4.3 ,"Bars, Cafes",$$,Arab Street
+8,9,19. Lang Nuong Viet Nam,4.4 ,"Vietnamese, Barbeque",$$,Little India
+9,10,20. Sakurazaka,4.7 ,Japanese,$$$,Bukit Timah
+10,11,21. Man Man Japanese Unagi,4.8 ,Japanese,$$,Chinatown
+11,12,22. Hong Kong Street Family Restaurant,4.3 ,Cantonese,$,Novena
+12,13,23. Sungei Road Laksa,4.4 ,"Singaporean, Chinese, Noodles",$,Lavender
+13,14,24. Founder Bak Kut Teh,4.3 ,Singaporean,$$,Lavender
+14,15,25. Yardbird Table & Bar,4.3 ,"American, Bars",$$$,Bayfront
+15,16,26. Vatos Urban Tacos,3.9 ,Mexican,$$,Bugis
+16,17,27. NUDE Seafood,4.3 ,Seafood,$$,Bayfront
+17,18,28. Hokkaido Ramen Santouka,4.3 ,Ramen,$$,Clarke Quay
+18,19,29. The Sushi Bar,4.4 ,"Sushi Bars, Japanese",$$,Orchard
+19,20,30. JB Ah Meng,4.6 ,"Chinese, Seafood",$$,Geylang
+20,21,31. Usman Restaurant,4.0 ,Indian,$,Little India
+21,22,32. Katong Keah Kee,4.5 ,"Seafood, Specialty Food, Street Vendors",$,Chinatown
+22,23,33. Hambaobao,4.6 ,Burgers,$,Little India
+23,24,34. Komala Vilas Restaurant,4.2 ,"Indian, Vegetarian",$,Little India
+24,25,35. Dragon Phoenix,4.0 ,Cantonese,$$,Clarke Quay
+25,26,36. Swee Choon Tim Sum,4.0 ,Dim Sum,$,Little India
+26,27,37. Newton Tian Xiang Big Prawn Noodle,4.5 ,Noodles,$,Newton
+27,28,38. Fat Bird,4.0 ,Chinese,$$,Bugis
+28,29,39. MTR 1924,4.4 ,Indian,$,Little India
+29,30,40. Trattoria Lafiandra,4.2 ,"Italian, Wine Bars",$$,Tanglin
+30,31,41. Taste Paradise,4.5 ,"Dim Sum, Cantonese",$$,Orchard
+31,32,42. Tingkat PeraMakan,4.3 ,"Singaporean, Seafood, Noodles",$$,Farrer Park
+32,33,43. Penang Seafood Restaurant,3.9 ,"Malaysian, Seafood",$,Geylang
+33,34,44. Club55,4.3 ,Buffets,$$,Bayfront
+34,35,45. Wolf Burgers,4.3 ,Burgers,$$,City Hall
+35,36,46. Herbivore,4.3 ,"Vegetarian, Japanese",$$,Bencoolen
+36,37,47. Jumbo Seafood,3.8 ,"Seafood, Singaporean",$$,Raffles Place
+37,38,48. Khansama Tandoori,4.2 ,Indian,$$,Little India
+38,39,49. Empress,4.4 ,"Chinese, Asian Fusion, Singaporean",$$,City Hall
+39,40,50. House of Peranakan Petit,4.4 ,Malaysian,$$,Tiong Bahru
+40,41,51. Fragrant Garden,4.8 ,Teochew,Not available,
+41,42,52. Satay By The Bay,3.8 ,"Seafood, Barbeque",$,Bayfront
+42,43,53. Tai Hwa Pork Noodle,4.1 ,"Chinese, Noodles",$,Lavender
+43,44,54. Shabestan,4.4 ,Persian/Iranian,$$$,Robertson Quay
+44,45,55. Liao Fan Hawker Chan,3.9 ,"Noodles, Chicken Shop",$,Chinatown
+45,46,56. The Quarters,5.0 ,"Cafes, Asian Fusion, Desserts",$$,Tanjong Pagar
+46,47,57. Five Star Hainanese Chicken Rice,4.3 ,"Chicken Shop, Hainan",$$,Katong
+47,48,58. Ya Hua Bak Kut Teh,4.3 ,Chinese,$$,Tiong Bahru
+48,49,59. Sawasdee,4.1 ,Thai,$$,Chinatown
+49,50,60. Jai’s Thai-Vientiane Cuisine,5.0 ,Thai,$,Ubi
+50,51,61. Song Fa Bak Kut Teh,4.6 ,"Soup, Chinese",$,Orchard
+51,52,62. Beach Road Kitchen,4.7 ,"Breakfast & Brunch, Chinese, Buffets",$$,City Hall
+52,53,63. iO Italian Osteria,4.4 ,Italian,$$$,Bukit Batok
+53,54,64. Il Fiore,4.0 ,Italian,$$,Raffles Place
+54,55,65. Blue Lotus Chinese Eating House,4.2 ,Chinese,$$$,Sentosa
+55,56,66. The Malayan Council,4.9 ,Cafes,$$,Little India
+56,57,67. Hainanese Delicacy Chicken Rice,4.4 ,"Chicken Shop, Hainan",$,Orchard
+57,58,68. Da Lian Traditional Noodles,3.9 ,"Noodles, Teochew",$,Lavender
+58,59,69. E-Sarn Thai Cuisine,4.5 ,Thai,$$,Thomson
+59,60,70. ShuKuu Izakaya,4.2 ,Izakaya,$$,Tanjong Pagar
+60,61,71. Mrs Pho,3.8 ,Vietnamese,$,Arab Street
+61,62,72. Hung Kang Teochew Restaurant,4.7 ,Teochew,$$,Clarke Quay
+62,63,73. Jai Thai,3.8 ,Thai,$,Bishan
+63,64,74. Keng Eng Kee Seafood,3.9 ,Seafood,$$,Alexandra
+64,65,75. Chabuton,4.8 ,Ramen,$$,City Hall
+65,66,76. Brazil Churrasco,4.4 ,Brazilian,$$,Sixth Avenue
+66,67,77. Sushi Jin,4.1 ,Japanese,$$$,Little India
+67,68,78. The Naked Finn,4.3 ,Seafood,$$$,Alexandra
+68,69,79. Aromas Of India,4.8 ,Indian,$$,Farrer Park
+69,70,80. Once Upon A Thyme,4.4 ,"Street Vendors, Italian",$,Novena
+70,71,81. Long Ji Zi Char,4.4 ,Seafood,$$,Tiong Bahru
+71,72,82. Ippudo,4.5 ,Ramen,$,Bayfront
+72,73,83. Muddy Murphy’s,4.0 ,"Pubs, Irish",$$,Tanglin
+73,74,84. The Reading Room,4.0 ,"Bars, Cafes",$$,Chinatown
+74,75,85. Brunches Cafe,4.4 ,"Coffee & Tea, Bakeries, Breakfast & Brunch",$$,Farrer Park
+75,76,86. The RiceTable,4.3 ,Indonesian,$$,Tanglin
+76,77,87. Zam Zam Restaurant,4.0 ,"Indian, Halal",$,Arab Street
+77,78,88. Ban Leong Wah Hoe Seafood,4.3 ,Seafood,$$,Thomson
+78,79,89. Sidewalk Food Place,4.0 ,Food Court,$,City Hall
+79,80,90. My Little Spanish Place,4.0 ,"Tapas/Small Plates, Spanish",$$$,Boat Quay
+80,81,91. Dolce Vita,4.3 ,Italian,$$$,City Hall
+81,82,92. Pek Kio Market & Food Centre,4.6 ,"Coffee & Tea, Breakfast & Brunch",$,Farrer Park
+82,83,93. Cibo Italiano,4.2 ,"Wine Bars, Italian, Imported Food",$$,River Valley
+83,84,94. My Little Tapas Bar,4.3 ,"Tapas/Small Plates, Spanish",$$$,Ann Siang Hill
+84,85,95. The Banana Leaf Apolo,3.9 ,"Indian, Asian Fusion",$$,Farrer Park
+85,86,96. Wang Dae Bak Korean BBQ,4.0 ,"Korean, Barbeque",$,Tanjong Pagar
+86,87,97. City Hot Pot Shabu Shabu,4.7 ,"Taiwanese, Hot Pot",$$,Raffles Place
+87,88,98. Bar B Q Tonight,4.1 ,Barbeque,$$,Little India
+88,89,99. Tandoori Flame @ Boon Tat,4.9 ,Indian,$$,Tanjong Pagar
+89,90,100. Wing Seong Fatty’s,3.7 ,"Chinese, Asian Fusion, Bars",$$,Bencoolen
+90,91,101. Joo Bar,4.1 ,Korean,$$,Bugis
+91,92,102. San Laksa Steamboat,4.1 ,"Hot Pot, Singaporean",$$$,Little India
+92,93,103. Superstar K,4.5 ,"Korean, Barbeque",$$$,Duxton Hill
+93,94,104. A Noodle Story,4.4 ,"Food Stands, Ramen, Singaporean",$,Tanjong Pagar
+94,95,105. Grazie,4.5 ,Italian,$,Boon Keng
+95,96,106. Public House,4.5 ,"Bars, Singaporean",$,Boat Quay
+96,97,107. Old Chengdu Sichuan Cuisine,4.1 ,"Szechuan, Imported Food",$$,Chinatown
+97,98,108. Kai Garden,4.3 ,"Cantonese, Dim Sum, Seafood",$$,City Hall
+98,99,109. Geylang Lorong 9 Beef Kway Teow,4.1 ,Chinese,$,Geylang
+99,100,110. The Wall,5.0 ,"Japanese, Cocktail Bars, Whiskey Bars",$$$,Duxton Hill
+100,101,111. Café Iguana,3.8 ,"Lounges, Tapas/Small Plates, Mexican",$$,Clarke Quay
+101,102,112. Treasures Yi Dian Xin,4.7 ,"Congee, Dim Sum, Noodles",$,Bras Brasah
+102,103,113. Din Tai Fung,4.2 ,"Shanghainese, Taiwanese, Dumplings",$$,Bayfront
+103,104,114. Astons Specialities,4.4 ,"American, Steakhouses",$,Little India
+104,105,115. Red House,3.9 ,Seafood,$$$,Robertson Quay
+105,106,116. Two Men Bagel House,4.8 ,"Breakfast & Brunch, Bagels",$,Novena
+106,107,117. Din Tai Fung,4.4 ,"Taiwanese, Shanghainese, Dumplings",$$,City Hall
+107,108,118. Imperial Treasure Fine Chinese Cuisine,4.1 ,Chinese,$$,Bayfront
+108,109,119. Blu Kouzina,4.5 ,"Mediterranean, Greek",$$$,Dempsey Hill
+109,110,120. Char Restaurant,4.4 ,Cantonese,$$,Little India
+110,111,121. Thien Long Vietnamese Restaurant,4.2 ,Vietnamese,$,Tanglin
+111,112,122. Isle Eating House,4.7 ,"Coffee & Tea, Food Court, Asian Fusion",$,Mount Sophia
+112,113,123. Bee Cheng Hiang - New Bridge Road,4.4 ,"Singaporean, Meat Shops, Barbeque",$$,Chinatown
+113,114,124. Wee Nam Kee Hainanese Chicken Rice,3.7 ,"Chicken Shop, Hainan",$$,City Hall
+114,115,125. Zhong Hua Steamboat,5.0 ,Chinese,$$,Bugis
+115,116,126. Food Republic,4.0 ,Food Court,$,Bras Brasah
+116,117,127. Indocafe The White House,4.2 ,Indonesian,$$,Newton
+117,118,128. Classic Lao Di Fang Vegetarian,4.0 ,Vegetarian,$,Dhoby Ghaut
+118,119,129. Happy Tummy,4.8 ,"Desserts, Salad, Cafes",$,Mount Sophia
+119,120,130. Hamburg Steak Keisuke,4.6 ,"Teppanyaki, Steakhouses",$$,Tanjong Pagar
+120,121,131. Toast Box,4.0 ,"Cafes, Breakfast & Brunch",$,Bras Brasah
+121,122,132. Shabu Shabu Tajimaya,4.5 ,"Japanese, Hot Pot",$$$,Orchard
+122,123,133. Mellben Seafood,4.1 ,Seafood,$$$,Ang Mo Kio
+123,124,134. Old Airport Road Food Centre,4.3 ,"Hawker Centre, Food Court",$,Mountbatten
+124,125,135. The Other Room,4.6 ,"Tapas/Small Plates, Cocktail Bars",$$,Orchard
+125,126,136. Majestic Bay,3.1 ,Seafood,$$,Bayfront
+126,127,137. Grain Traders,4.1 ,Cafes,$$,Raffles Place
+127,128,138. Annalakshmi,4.0 ,"Indian, Vegetarian",$,Clarke Quay
+128,129,139. Taste Of Morroco,5.0 ,Moroccan,$,West Coast
+129,130,140. Lao You Xuan Noodle Kitchen,5.0 ,"Singaporean, Noodles, Soup",$,River Valley
+130,131,141. Inle Myanmar,4.2 ,Burmese,$,Bras Brasah
+131,132,142. Hai San Chicken Rice,5.0 ,Chinese,$,Tiong Bahru
+132,133,143. Imperial Treasure Nan Bei Restaurant,4.6 ,Chinese,$$,Orchard
+133,134,144. Ji Ji Wanton Noodle Specialist,4.5 ,Chinese,$,Chinatown
+134,135,145. 旺角點心 Mongkok Dim Sum,3.7 ,Dim Sum,$,Geylang
+135,136,146. Cook & Brew,3.9 ,"Gastropubs, Lounges",$$$,Bayfront
+136,137,147. Hopheads,3.7 ,"Bistros, Tapas/Small Plates",$$,Dhoby Ghaut
+137,138,148. Su Korean BBQ,4.5 ,"Korean, Barbeque",$,Toa Payoh
+138,139,149. Haramiya Japanese BBQ Restaurant,4.0 ,"Barbeque, Japanese",$$,Clarke Quay
+139,140,150. Alati,4.6 ,Greek,$$$,Tanjong Pagar
+140,141,151. Seletar Hill,5.0 ,Szechuan,$$,Yio Chu Kang
+141,142,152. Artichoke Cafe & Bar,4.0 ,"Bars, Middle Eastern",$$,Bencoolen
+142,143,153. Hup Choon Eating House,4.3 ,Seafood,$,Bukit Timah
+143,144,154. Ramen Keisuke Tori King,4.2 ,Ramen,$$,Tanjong Pagar
+144,145,155. Yi Jia South Village Seafood Restaurant,3.3 ,Seafood,$$,Macpherson
+145,146,156. CreatureS,4.1 ,"Breakfast & Brunch, Asian Fusion, Singaporean",$$,Little India
+146,147,157. Kazu Sumiyaki,4.5 ,Japanese,$$$,Orchard
+147,148,158. Red Eye Smokehouse,4.3 ,"Bars, American, Barbeque",$$$,Lavender
+148,149,159. Bella Pizza,3.8 ,"Italian, Pizza",$$,Robertson Quay
+149,150,160. Sushi Kou,4.8 ,Japanese,$$$,Tanjong Pagar
+150,151,161. Humpback,4.4 ,"American, Seafood, Cocktail Bars",$$$,Chinatown
+151,152,162. Ippudo,4.1 ,Ramen,$$,Somerset
+152,153,163. Bosses Restaurant,3.9 ,"Dim Sum, Cantonese",$$,Harbourfront
+153,154,164. Boon Tong Kee,4.5 ,Cantonese,$$,Boon Keng
+154,155,165. Coffee Lounge,4.3 ,"Singaporean, Breakfast & Brunch",$$$,Newton
+155,156,166. Old Habits,5.0 ,Cafes,$$,Telok Blangah
+156,157,167. Granny’s Pancake,4.0 ,"Breakfast & Brunch, Coffee & Tea",$,Chinatown
+157,158,168. Ya Kun Kaya Toast,5.0 ,"Coffee & Tea, Sandwiches",$$,Little India
+158,159,169. Botanico,4.5 ,Modern European,$$$,Bukit Timah
+159,160,170. Third & Sixth Bistrobar,4.2 ,"Bars, Burgers",$$,Bras Brasah
+160,161,171. Fatboy’s The Burger Bar,3.9 ,Burgers,$$,Orchard
+161,162,172. Nagae,4.1 ,Japanese,$$$,River Valley
+162,163,173. Greenwood Fish Market & Bistro,3.2 ,"Seafood, Seafood Markets",$$,Bukit Timah
+163,164,174. Leong Kee Bak Kut Teh,3.8 ,Chinese,$,Geylang
+164,165,175. Coq & Balls,4.2 ,"Bars, Japanese, Asian Fusion",$$$,Tiong Bahru
+165,166,176. Five Oars Coffee Roasters,4.7 ,"Coffee Roasteries, Breakfast & Brunch",$$,Duxton Hill
+166,167,177. Kampong Glam Cafe,3.8 ,Indonesian,$,Arab Street
+167,168,178. Liao Fan Hawker Chan,4.0 ,"Noodles, Cantonese",$,Macpherson
+168,169,179. The Marmalade Pantry,4.0 ,"Breakfast & Brunch, Cupcakes, Sandwiches",$$,Novena
+169,170,180. Boomarang,4.1 ,"Breakfast & Brunch, Bars, Australian",$$,Boat Quay
+170,171,181. CÉ LA VI Restaurant,3.2 ,"Bars, Asian Fusion",$$$,Bayfront
+171,172,182. Dashi Master Marusaya,4.3 ,Japanese,$$$,Robertson Quay
+172,173,183. Longqing Hotpot,5.0 ,"Chinese, Hot Pot",$$$,Clarke Quay
+173,174,184. Mahota Commune,4.5 ,"Organic Stores, Italian, Venues & Event Spaces",$$,Lavender
+174,175,185. Blue Ginger,3.8 ,"Chinese, Asian Fusion",$$$,Tanjong Pagar
+175,176,186. Owls Brew,4.2 ,"Bars, Gastropubs",$$,Mount Sophia
+176,177,187. Chopsuey Cafe,4.0 ,Cafes,$$$,Robertson Quay
+177,178,188. Killiney Kopitiam,4.0 ,"Breakfast & Brunch, Coffee & Tea",$,Somerset
+178,179,189. Ng Ah Sio Bak Kut Teh,4.1 ,Chinese,$,Farrer Park
+179,180,190. Shang Palace,4.4 ,"Cantonese, Dim Sum",$$$,Tanglin
+180,181,191. Jian Bo Shui Kueh,4.6 ,"Singaporean, Food Stands",$,Tiong Bahru
+181,182,192. The Beast,3.4 ,"Bars, American, Burgers",$$,Lavender
+182,183,193. Jiang-Nan Chun,4.3 ,Chinese,$$$,Tanglin
+183,184,194. Delicious Boneless Chicken Rice,4.5 ,"Chicken Shop, Hainan",$,Katong
+184,185,195. Xin Heng Feng Guo Tiao Tan,4.5 ,Chinese,$,Novena
+185,186,196. Jumbo Seafood,4.0 ,Seafood,$$$,Marine Parade
+186,187,197. Da Paolo Gastronomia - Marina Bay Sands,4.3 ,"Italian, Desserts, Coffee & Tea",$$,Bayfront
+187,188,198. Food Republic,2.9 ,"Food Court, Singaporean",$,Bencoolen
+188,189,199. Salted & Hung,4.3 ,Australian,$$$,Bugis
+189,190,200. The Landing Point - Fullerton Bay Hotel,3.5 ,"Asian Fusion, Cocktail Bars",$$,Raffles Place
+190,191,201. Lian He Ben Ji Claypot Rice,3.8 ,Chinese,$$,Chinatown
+191,192,202. Chui Huay Lim Teochew Cusine,3.9 ,Teochew,Not available,
+192,193,203. Tonkotsu King Matsuri,4.3 ,Ramen,$$,Marine Parade
+193,194,204. Marché,4.2 ,Restaurants,$$,Harbourfront
+194,195,205. Riverside Indonesian BBQ,4.8 ,"Indonesian, Barbeque",$,Orchard
+195,196,206. The Union Bar,4.1 ,"American, Sports Bars",$$,Tanglin
+196,197,207. Founder Bak Kut Teh,4.1 ,"Chinese, Soup",$,Novena
+197,198,208. Imperial Treasure Super Peking Duck,3.8 ,Chinese,$,Orchard
+198,199,209. Ash & Elm,3.9 ,Modern European,$$$,Bugis
+199,200,210. Culina,3.8 ,"Bistros, Specialty Food",$$$,Dempsey Hill
+200,201,211. Canto Kitchen,4.5 ,Restaurants,$$,Chinatown
+201,202,212. Ah Tai Hainanese Chicken Rice,4.5 ,"Chicken Shop, Hainan",$,Tanjong Pagar
+202,203,213. Sanji Kagoshima Ramen,4.9 ,Ramen,$$,Tanjong Pagar
+203,204,214. Al Borgo Italian Restaurant,4.0 ,Italian,$$,Bukit Timah
+204,205,215. Kazbar,4.6 ,"Bars, Middle Eastern",$$$,Raffles Place
+205,206,216. Shanghai Ren Jia,4.3 ,Chinese,$$,Ang Mo Kio
+206,207,217. Tabbouleh,3.4 ,"Mediterranean, Lebanese",$$,Arab Street
+207,208,218. The Dempsey Cookhouse & Bar,3.9 ,Asian Fusion,$$$,Dempsey Hill
+208,209,219. Dolphins,4.0 ,Restaurants,$$,Macpherson
+209,210,220. Crystal Jade Kitchen,4.2 ,Cantonese,$,Dhoby Ghaut
+210,211,221. Flutes,4.1 ,Modern European,$$$,Dhoby Ghaut
+211,212,222. Som Tam,4.3 ,"Thai, Asian Fusion",$$,Somerset
+212,213,223. Paulaner Bräuhaus Singapore,3.6 ,"German, Beer Bar",$$,City Hall
+213,214,224. Ma Maison,4.5 ,Asian Fusion,$$,Alexandra
+214,215,225. Amber Restaurant,4.2 ,Indian,$,Little India
+215,216,226. Flying Monkey,4.1 ,"Indian, Cocktail Bars",$$$,Arab Street
+216,217,227. Super Siam Thai Restaurant,4.0 ,Thai,$,Clarke Quay
+217,218,228. Employees Only,4.2 ,"Bars, American",$$$,Raffles Place
+218,219,229. Su Korean Cuisine,5.0 ,Korean,$,Orchard
+219,220,230. The Clueless Goat,4.1 ,"Coffee & Tea, Breakfast & Brunch",$,Novena
+220,221,231. Saveur,4.0 ,"French, Desserts",$$,Bugis
+221,222,232. Tandoori Corner North Indian Curry House,4.4 ,Indian,$$,Novena
+222,223,233. Goldhill Family Restruant,5.0 ,Singaporean,$,Hougang
+223,224,234. Sanpoutei Ramen,4.1 ,Ramen,$$,Holland Village
+224,225,235. Syun,4.4 ,Japanese,$$$,Sentosa
+225,226,236. Old Hen Kitchen,4.7 ,Cafes,$$,Farrer Park
+226,227,237. Chin Chin Restaurant,3.8 ,"Chinese, Coffee & Tea",$,Bugis
+227,228,238. Hong Chang Eating House,5.0 ,Chinese,$$,Serangoon
+228,229,239. Whampoa Keng,4.0 ,Teochew,$$,Farrer Park
+229,230,240. Westlake,3.8 ,Chinese,$$,Bukit Timah

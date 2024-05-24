@@ -1,0 +1,328 @@
+,name,rating,cuisine,price,location,longitude,latitude,cuisine category
+0,The Garden @ Sentosa,5,Modern European,3,Sentosa,103.8303209,1.2494041,Western
+1,Tian Tian Seafood Restaurant,4.7,"Seafood, Chinese",2,Tiong Bahru,103.8252983,1.2863712,Chinese
+2,Song Fa Bak Kut Teh,4.6,"Chinese, Singaporean",1,Chinatown,not available,not available,Chinese
+3,Zhong Guo La Mian Xiao Long Bao,4.4,"Shanghainese, Dim Sum, Noodles",1,Chinatown,not available,not available,Other
+4,La Strada,4.4,Italian,3,Tanglin,103.8188845,1.306932,Italian
+5,Wee Nam Kee Chicken Rice,4.3,"Chicken Shop, Hainan",1,Novena,not available,not available,Other
+6,Two Men Bagel House,4.5,"Bagels, Breakfast & Brunch, Sandwiches",1,Tanjong Pagar,103.8404472,1.2780299,Other
+7,Going Om,4.3,"Bars, Cafes",2,Arab Street,103.8581619,1.3023026,Other
+8,Lang Nuong Viet Nam,4.4,"Vietnamese, Barbeque",2,Little India,103.851819,1.3065597,Vietnamese
+9,Sakurazaka,4.7,Japanese,3,Bukit Timah,103.8020777,1.3294113,Japanese
+10,Man Man Japanese Unagi,4.8,Japanese,2,Chinatown,not available,not available,Japanese
+11,Hong Kong Street Family Restaurant,4.3,Cantonese,1,Novena,not available,not available,Other
+12,Sungei Road Laksa,4.4,"Singaporean, Chinese, Noodles",1,Lavender,not available,not available,Chinese
+13,Founder Bak Kut Teh,4.3,Singaporean,2,Lavender,not available,not available,Singaporean
+14,Yardbird Table & Bar,4.3,"American, Bars",3,Bayfront,not available,not available,Western
+15,Vatos Urban Tacos,3.9,Mexican,2,Bugis,not available,not available,Mexican
+16,NUDE Seafood,4.3,Seafood,2,Bayfront,not available,not available,Other
+17,Hokkaido Ramen Santouka,4.3,Ramen,2,Clarke Quay,103.8464742,1.2906024,Japanese
+18,The Sushi Bar,4.4,"Sushi Bars, Japanese",2,Orchard,not available,not available,Japanese
+19,JB Ah Meng,4.6,"Chinese, Seafood",2,Geylang,103.8917746,1.3200544,Chinese
+20,Usman Restaurant,4,Indian,1,Little India,103.851819,1.3065597,Indian
+21,Katong Keah Kee,4.5,"Seafood, Specialty Food, Street Vendors",1,Chinatown,not available,not available,Other
+22,Hambaobao,4.6,Burgers,1,Little India,103.851819,1.3065597,Other
+23,Komala Vilas Restaurant,4.2,"Indian, Vegetarian",1,Little India,103.851819,1.3065597,Indian
+24,Dragon Phoenix,4,Cantonese,2,Clarke Quay,103.8464742,1.2906024,Other
+25,Swee Choon Tim Sum,4,Dim Sum,1,Little India,103.851819,1.3065597,Other
+26,Newton Tian Xiang Big Prawn Noodle,4.5,Noodles,1,Newton,not available,not available,Other
+27,Fat Bird,4,Chinese,2,Bugis,not available,not available,Chinese
+28,MTR 1924,4.4,Indian,1,Little India,103.851819,1.3065597,Indian
+29,Trattoria Lafiandra,4.2,"Italian, Wine Bars",2,Tanglin,103.8188845,1.306932,Italian
+30,Taste Paradise,4.5,"Dim Sum, Cantonese",2,Orchard,not available,not available,Other
+31,Tingkat PeraMakan,4.3,"Singaporean, Seafood, Noodles",2,Farrer Park,28.2424291,-26.247152,Singaporean
+32,Penang Seafood Restaurant,3.9,"Malaysian, Seafood",1,Geylang,103.8917746,1.3200544,Malaysian
+33,Club55,4.3,Buffets,2,Bayfront,not available,not available,Other
+34,Wolf Burgers,4.3,Burgers,2,City Hall,not available,not available,Other
+35,Herbivore,4.3,"Vegetarian, Japanese",2,Bencoolen,103.8516144,1.300423,Japanese
+36,Jumbo Seafood,3.8,"Seafood, Singaporean",2,Raffles Place,103.8513447,1.2844837,Singaporean
+37,Khansama Tandoori,4.2,Indian,2,Little India,103.851819,1.3065597,Indian
+38,Empress,4.4,"Chinese, Asian Fusion, Singaporean",2,City Hall,not available,not available,Singaporean
+39,House of Peranakan Petit,4.4,Malaysian,2,Tiong Bahru,103.8252983,1.2863712,Malaysian
+40,Fragrant Garden,4.8,Teochew,not available,not available,not available,not available,Other
+41,Satay By The Bay,3.8,"Seafood, Barbeque",1,Bayfront,not available,not available,Other
+42,Tai Hwa Pork Noodle,4.1,"Chinese, Noodles",1,Lavender,not available,not available,Chinese
+43,Shabestan,4.4,Persian/Iranian,3,Robertson Quay,103.8374015,1.2911286,Middle Eastern
+44,Liao Fan Hawker Chan,3.9,"Noodles, Chicken Shop",1,Chinatown,not available,not available,Other
+45,The Quarters,5,"Cafes, Asian Fusion, Desserts",2,Tanjong Pagar,103.8404472,1.2780299,Other
+46,Five Star Hainanese Chicken Rice,4.3,"Chicken Shop, Hainan",2,Katong,103.9049556,1.3059671,Other
+47,Ya Hua Bak Kut Teh,4.3,Chinese,2,Tiong Bahru,103.8252983,1.2863712,Chinese
+48,Sawasdee,4.1,Thai,2,Chinatown,not available,not available,Other
+49,Jai’s Thai-Vientiane Cuisine,5,Thai,1,Ubi,not available,not available,Other
+50,Song Fa Bak Kut Teh,4.6,"Soup, Chinese",1,Orchard,not available,not available,Chinese
+51,Beach Road Kitchen,4.7,"Breakfast & Brunch, Chinese, Buffets",2,City Hall,not available,not available,Chinese
+52,iO Italian Osteria,4.4,Italian,3,Bukit Batok,103.7636796,1.3590288,Italian
+53,Il Fiore,4,Italian,2,Raffles Place,103.8513447,1.2844837,Italian
+54,Blue Lotus Chinese Eating House,4.2,Chinese,3,Sentosa,103.8303209,1.2494041,Chinese
+55,The Malayan Council,4.9,Cafes,2,Little India,103.851819,1.3065597,Other
+56,Hainanese Delicacy Chicken Rice,4.4,"Chicken Shop, Hainan",1,Orchard,not available,not available,Other
+57,Da Lian Traditional Noodles,3.9,"Noodles, Teochew",1,Lavender,not available,not available,Other
+58,E-Sarn Thai Cuisine,4.5,Thai,2,Thomson,not available,not available,Other
+59,ShuKuu Izakaya,4.2,Izakaya,2,Tanjong Pagar,103.8404472,1.2780299,Japanese
+60,Mrs Pho,3.8,Vietnamese,1,Arab Street,103.8581619,1.3023026,Vietnamese
+61,Hung Kang Teochew Restaurant,4.7,Teochew,2,Clarke Quay,103.8464742,1.2906024,Other
+62,Jai Thai,3.8,Thai,1,Bishan,103.8352116,1.3525845,Other
+63,Keng Eng Kee Seafood,3.9,Seafood,2,Alexandra,28.0984878,-26.1049418,Other
+64,Chabuton,4.8,Ramen,2,City Hall,not available,not available,Japanese
+65,Brazil Churrasco,4.4,Brazilian,2,Sixth Avenue,not available,not available,Other
+66,Sushi Jin,4.1,Japanese,3,Little India,103.851819,1.3065597,Japanese
+67,The Naked Finn,4.3,Seafood,3,Alexandra,28.0984878,-26.1049418,Other
+68,Aromas Of India,4.8,Indian,2,Farrer Park,28.2424291,-26.247152,Indian
+69,Once Upon A Thyme,4.4,"Street Vendors, Italian",1,Novena,not available,not available,Italian
+70,Long Ji Zi Char,4.4,Seafood,2,Tiong Bahru,103.8252983,1.2863712,Other
+71,Ippudo,4.5,Ramen,1,Bayfront,not available,not available,Japanese
+72,Muddy Murphy’s,4,"Pubs, Irish",2,Tanglin,103.8188845,1.306932,Other
+73,The Reading Room,4,"Bars, Cafes",2,Chinatown,not available,not available,Other
+74,Brunches Cafe,4.4,"Coffee & Tea, Bakeries, Breakfast & Brunch",2,Farrer Park,28.2424291,-26.247152,Other
+75,The RiceTable,4.3,Indonesian,2,Tanglin,103.8188845,1.306932,Indonesian
+76,Zam Zam Restaurant,4,"Indian, Halal",1,Arab Street,103.8581619,1.3023026,Indian
+77,Ban Leong Wah Hoe Seafood,4.3,Seafood,2,Thomson,not available,not available,Other
+78,Sidewalk Food Place,4,Food Court,1,City Hall,not available,not available,Other
+79,My Little Spanish Place,4,"Tapas/Small Plates, Spanish",3,Boat Quay,103.8501608,1.2859963,Spanish
+80,Dolce Vita,4.3,Italian,3,City Hall,not available,not available,Italian
+81,Pek Kio Market & Food Centre,4.6,"Coffee & Tea, Breakfast & Brunch",1,Farrer Park,28.2424291,-26.247152,Other
+82,Cibo Italiano,4.2,"Wine Bars, Italian, Imported Food",2,River Valley,not available,not available,Italian
+83,My Little Tapas Bar,4.3,"Tapas/Small Plates, Spanish",3,Ann Siang Hill,103.845192,1.2815961,Spanish
+84,The Banana Leaf Apolo,3.9,"Indian, Asian Fusion",2,Farrer Park,28.2424291,-26.247152,Indian
+85,Wang Dae Bak Korean BBQ,4,"Korean, Barbeque",1,Tanjong Pagar,103.8404472,1.2780299,Other
+86,City Hot Pot Shabu Shabu,4.7,"Taiwanese, Hot Pot",2,Raffles Place,103.8513447,1.2844837,Taiwanese
+87,Bar B Q Tonight,4.1,Barbeque,2,Little India,103.851819,1.3065597,Other
+88,Tandoori Flame @ Boon Tat,4.9,Indian,2,Tanjong Pagar,103.8404472,1.2780299,Indian
+89,Wing Seong Fatty’s,3.7,"Chinese, Asian Fusion, Bars",2,Bencoolen,103.8516144,1.300423,Chinese
+90,Joo Bar,4.1,Korean,2,Bugis,not available,not available,Other
+91,San Laksa Steamboat,4.1,"Hot Pot, Singaporean",3,Little India,103.851819,1.3065597,Singaporean
+92,Superstar K,4.5,"Korean, Barbeque",3,Duxton Hill,103.8428175,1.2787741,Other
+93,A Noodle Story,4.4,"Food Stands, Ramen, Singaporean",1,Tanjong Pagar,103.8404472,1.2780299,Singaporean
+94,Grazie,4.5,Italian,1,Boon Keng,103.8731715,1.3156048,Italian
+95,Public House,4.5,"Bars, Singaporean",1,Boat Quay,103.8501608,1.2859963,Singaporean
+96,Old Chengdu Sichuan Cuisine,4.1,"Szechuan, Imported Food",2,Chinatown,not available,not available,Other
+97,Kai Garden,4.3,"Cantonese, Dim Sum, Seafood",2,City Hall,not available,not available,Other
+98,Geylang Lorong 9 Beef Kway Teow,4.1,Chinese,1,Geylang,103.8917746,1.3200544,Chinese
+99,The Wall,5,"Japanese, Cocktail Bars, Whiskey Bars",3,Duxton Hill,103.8428175,1.2787741,Japanese
+100,Café Iguana,3.8,"Lounges, Tapas/Small Plates, Mexican",2,Clarke Quay,103.8464742,1.2906024,Mexican
+101,Treasures Yi Dian Xin,4.7,"Congee, Dim Sum, Noodles",1,Bras Brasah,103.8540512,1.2984821,Other
+102,Din Tai Fung,4.2,"Shanghainese, Taiwanese, Dumplings",2,Bayfront,not available,not available,Taiwanese
+103,Astons Specialities,4.4,"American, Steakhouses",1,Little India,103.851819,1.3065597,Western
+104,Red House,3.9,Seafood,3,Robertson Quay,103.8374015,1.2911286,Other
+105,Two Men Bagel House,4.8,"Breakfast & Brunch, Bagels",1,Novena,not available,not available,Other
+106,Din Tai Fung,4.4,"Taiwanese, Shanghainese, Dumplings",2,City Hall,not available,not available,Taiwanese
+107,Imperial Treasure Fine Chinese Cuisine,4.1,Chinese,2,Bayfront,not available,not available,Chinese
+108,Blu Kouzina,4.5,"Mediterranean, Greek",3,Dempsey Hill,103.8098603,1.3039916,Other
+109,Char Restaurant,4.4,Cantonese,2,Little India,103.851819,1.3065597,Other
+110,Thien Long Vietnamese Restaurant,4.2,Vietnamese,1,Tanglin,103.8188845,1.306932,Vietnamese
+111,Isle Eating House,4.7,"Coffee & Tea, Food Court, Asian Fusion",1,Mount Sophia,not available,not available,Other
+112,Bee Cheng Hiang - New Bridge Road,4.4,"Singaporean, Meat Shops, Barbeque",2,Chinatown,not available,not available,Singaporean
+113,Wee Nam Kee Hainanese Chicken Rice,3.7,"Chicken Shop, Hainan",2,City Hall,not available,not available,Other
+114,Zhong Hua Steamboat,5,Chinese,2,Bugis,not available,not available,Chinese
+115,Food Republic,4,Food Court,1,Bras Brasah,103.8540512,1.2984821,Other
+116,Indocafe The White House,4.2,Indonesian,2,Newton,not available,not available,Indonesian
+117,Classic Lao Di Fang Vegetarian,4,Vegetarian,1,Dhoby Ghaut,103.8455015,1.2989432,Other
+118,Happy Tummy,4.8,"Desserts, Salad, Cafes",1,Mount Sophia,not available,not available,Other
+119,Hamburg Steak Keisuke,4.6,"Teppanyaki, Steakhouses",2,Tanjong Pagar,103.8404472,1.2780299,Japanese
+120,Toast Box,4,"Cafes, Breakfast & Brunch",1,Bras Brasah,103.8540512,1.2984821,Other
+121,Shabu Shabu Tajimaya,4.5,"Japanese, Hot Pot",3,Orchard,not available,not available,Japanese
+122,Mellben Seafood,4.1,Seafood,3,Ang Mo Kio,103.8454342,1.3691149,Other
+123,Old Airport Road Food Centre,4.3,"Hawker Centre, Food Court",1,Mountbatten,not available,not available,Other
+124,The Other Room,4.6,"Tapas/Small Plates, Cocktail Bars",2,Orchard,not available,not available,Other
+125,Majestic Bay,3.1,Seafood,2,Bayfront,not available,not available,Other
+126,Grain Traders,4.1,Cafes,2,Raffles Place,103.8513447,1.2844837,Other
+127,Annalakshmi,4,"Indian, Vegetarian",1,Clarke Quay,103.8464742,1.2906024,Indian
+128,Taste Of Morroco,5,Moroccan,1,West Coast,-149.0729715,62.4113634,Other
+129,Lao You Xuan Noodle Kitchen,5,"Singaporean, Noodles, Soup",1,River Valley,not available,not available,Singaporean
+130,Inle Myanmar,4.2,Burmese,1,Bras Brasah,103.8540512,1.2984821,Other
+131,Hai San Chicken Rice,5,Chinese,1,Tiong Bahru,103.8252983,1.2863712,Chinese
+132,Imperial Treasure Nan Bei Restaurant,4.6,Chinese,2,Orchard,not available,not available,Chinese
+133,Ji Ji Wanton Noodle Specialist,4.5,Chinese,1,Chinatown,not available,not available,Chinese
+134,旺角點心 Mongkok Dim Sum,3.7,Dim Sum,1,Geylang,103.8917746,1.3200544,Other
+135,Cook & Brew,3.9,"Gastropubs, Lounges",3,Bayfront,not available,not available,Other
+136,Hopheads,3.7,"Bistros, Tapas/Small Plates",2,Dhoby Ghaut,103.8455015,1.2989432,Other
+137,Su Korean BBQ,4.5,"Korean, Barbeque",1,Toa Payoh,103.8563265,1.3343035,Other
+138,Haramiya Japanese BBQ Restaurant,4,"Barbeque, Japanese",2,Clarke Quay,103.8464742,1.2906024,Japanese
+139,Alati,4.6,Greek,3,Tanjong Pagar,103.8404472,1.2780299,Other
+140,Seletar Hill,5,Szechuan,2,Yio Chu Kang,103.8564725,1.3981642,Other
+141,Artichoke Cafe & Bar,4,"Bars, Middle Eastern",2,Bencoolen,103.8516144,1.300423,Middle Eastern
+142,Hup Choon Eating House,4.3,Seafood,1,Bukit Timah,103.8020777,1.3294113,Other
+143,Ramen Keisuke Tori King,4.2,Ramen,2,Tanjong Pagar,103.8404472,1.2780299,Japanese
+144,Yi Jia South Village Seafood Restaurant,3.3,Seafood,2,Macpherson,103.8852397,1.3273112,Other
+145,CreatureS,4.1,"Breakfast & Brunch, Asian Fusion, Singaporean",2,Little India,103.851819,1.3065597,Singaporean
+146,Kazu Sumiyaki,4.5,Japanese,3,Orchard,not available,not available,Japanese
+147,Red Eye Smokehouse,4.3,"Bars, American, Barbeque",3,Lavender,not available,not available,Western
+148,Bella Pizza,3.8,"Italian, Pizza",2,Robertson Quay,103.8374015,1.2911286,Italian
+149,Sushi Kou,4.8,Japanese,3,Tanjong Pagar,103.8404472,1.2780299,Japanese
+150,Humpback,4.4,"American, Seafood, Cocktail Bars",3,Chinatown,not available,not available,Western
+151,Ippudo,4.1,Ramen,2,Somerset,-2.9262307,51.105097,Japanese
+152,Bosses Restaurant,3.9,"Dim Sum, Cantonese",2,Harbourfront,-79.3789371,43.6405521,Other
+153,Boon Tong Kee,4.5,Cantonese,2,Boon Keng,103.8731715,1.3156048,Other
+154,Coffee Lounge,4.3,"Singaporean, Breakfast & Brunch",3,Newton,not available,not available,Singaporean
+155,Old Habits,5,Cafes,2,Telok Blangah,not available,not available,Other
+156,Granny’s Pancake,4,"Breakfast & Brunch, Coffee & Tea",1,Chinatown,not available,not available,Other
+157,Ya Kun Kaya Toast,5,"Coffee & Tea, Sandwiches",2,Little India,103.851819,1.3065597,Other
+158,Botanico,4.5,Modern European,3,Bukit Timah,103.8020777,1.3294113,Western
+159,Third & Sixth Bistrobar,4.2,"Bars, Burgers",2,Bras Brasah,103.8540512,1.2984821,Other
+160,Fatboy’s The Burger Bar,3.9,Burgers,2,Orchard,not available,not available,Other
+161,Nagae,4.1,Japanese,3,River Valley,not available,not available,Japanese
+162,Greenwood Fish Market & Bistro,3.2,"Seafood, Seafood Markets",2,Bukit Timah,103.8020777,1.3294113,Other
+163,Leong Kee Bak Kut Teh,3.8,Chinese,1,Geylang,103.8917746,1.3200544,Chinese
+164,Coq & Balls,4.2,"Bars, Japanese, Asian Fusion",3,Tiong Bahru,103.8252983,1.2863712,Japanese
+165,Five Oars Coffee Roasters,4.7,"Coffee Roasteries, Breakfast & Brunch",2,Duxton Hill,103.8428175,1.2787741,Other
+166,Kampong Glam Cafe,3.8,Indonesian,1,Arab Street,103.8581619,1.3023026,Indonesian
+167,Liao Fan Hawker Chan,4,"Noodles, Cantonese",1,Macpherson,103.8852397,1.3273112,Other
+168,The Marmalade Pantry,4,"Breakfast & Brunch, Cupcakes, Sandwiches",2,Novena,not available,not available,Other
+169,Boomarang,4.1,"Breakfast & Brunch, Bars, Australian",2,Boat Quay,103.8501608,1.2859963,Other
+170,CÉ LA VI Restaurant,3.2,"Bars, Asian Fusion",3,Bayfront,not available,not available,Other
+171,Dashi Master Marusaya,4.3,Japanese,3,Robertson Quay,103.8374015,1.2911286,Japanese
+172,Longqing Hotpot,5,"Chinese, Hot Pot",3,Clarke Quay,103.8464742,1.2906024,Chinese
+173,Mahota Commune,4.5,"Organic Stores, Italian, Venues & Event Spaces",2,Lavender,not available,not available,Italian
+174,Blue Ginger,3.8,"Chinese, Asian Fusion",3,Tanjong Pagar,103.8404472,1.2780299,Chinese
+175,Owls Brew,4.2,"Bars, Gastropubs",2,Mount Sophia,not available,not available,Other
+176,Chopsuey Cafe,4,Cafes,3,Robertson Quay,103.8374015,1.2911286,Other
+177,Killiney Kopitiam,4,"Breakfast & Brunch, Coffee & Tea",1,Somerset,-2.9262307,51.105097,Other
+178,Ng Ah Sio Bak Kut Teh,4.1,Chinese,1,Farrer Park,28.2424291,-26.247152,Chinese
+179,Shang Palace,4.4,"Cantonese, Dim Sum",3,Tanglin,103.8188845,1.306932,Other
+180,Jian Bo Shui Kueh,4.6,"Singaporean, Food Stands",1,Tiong Bahru,103.8252983,1.2863712,Singaporean
+181,The Beast,3.4,"Bars, American, Burgers",2,Lavender,not available,not available,Western
+182,Jiang-Nan Chun,4.3,Chinese,3,Tanglin,103.8188845,1.306932,Chinese
+183,Delicious Boneless Chicken Rice,4.5,"Chicken Shop, Hainan",1,Katong,103.9049556,1.3059671,Other
+184,Xin Heng Feng Guo Tiao Tan,4.5,Chinese,1,Novena,not available,not available,Chinese
+185,Jumbo Seafood,4,Seafood,3,Marine Parade,103.8970821,1.3019687,Other
+186,Da Paolo Gastronomia - Marina Bay Sands,4.3,"Italian, Desserts, Coffee & Tea",2,Bayfront,not available,not available,Italian
+187,Food Republic,2.9,"Food Court, Singaporean",1,Bencoolen,103.8516144,1.300423,Singaporean
+188,Salted & Hung,4.3,Australian,3,Bugis,not available,not available,Other
+189,The Landing Point - Fullerton Bay Hotel,3.5,"Asian Fusion, Cocktail Bars",2,Raffles Place,103.8513447,1.2844837,Other
+190,Lian He Ben Ji Claypot Rice,3.8,Chinese,2,Chinatown,not available,not available,Chinese
+191,Chui Huay Lim Teochew Cusine,3.9,Teochew,not available,not available,not available,not available,Other
+192,Tonkotsu King Matsuri,4.3,Ramen,2,Marine Parade,103.8970821,1.3019687,Japanese
+193,Marché,4.2,Restaurants,2,Harbourfront,-79.3789371,43.6405521,Other
+194,Riverside Indonesian BBQ,4.8,"Indonesian, Barbeque",1,Orchard,not available,not available,Indonesian
+195,The Union Bar,4.1,"American, Sports Bars",2,Tanglin,103.8188845,1.306932,Western
+196,Founder Bak Kut Teh,4.1,"Chinese, Soup",1,Novena,not available,not available,Chinese
+197,Imperial Treasure Super Peking Duck,3.8,Chinese,1,Orchard,not available,not available,Chinese
+198,Ash & Elm,3.9,Modern European,3,Bugis,not available,not available,Western
+199,Culina,3.8,"Bistros, Specialty Food",3,Dempsey Hill,103.8098603,1.3039916,Other
+200,Canto Kitchen,4.5,Restaurants,2,Chinatown,not available,not available,Other
+201,Ah Tai Hainanese Chicken Rice,4.5,"Chicken Shop, Hainan",1,Tanjong Pagar,103.8404472,1.2780299,Other
+202,Sanji Kagoshima Ramen,4.9,Ramen,2,Tanjong Pagar,103.8404472,1.2780299,Japanese
+203,Al Borgo Italian Restaurant,4,Italian,2,Bukit Timah,103.8020777,1.3294113,Italian
+204,Kazbar,4.6,"Bars, Middle Eastern",3,Raffles Place,103.8513447,1.2844837,Middle Eastern
+205,Shanghai Ren Jia,4.3,Chinese,2,Ang Mo Kio,103.8454342,1.3691149,Chinese
+206,Tabbouleh,3.4,"Mediterranean, Lebanese",2,Arab Street,103.8581619,1.3023026,Other
+207,The Dempsey Cookhouse & Bar,3.9,Asian Fusion,3,Dempsey Hill,103.8098603,1.3039916,Other
+208,Dolphins,4,Restaurants,2,Macpherson,103.8852397,1.3273112,Other
+209,Crystal Jade Kitchen,4.2,Cantonese,1,Dhoby Ghaut,103.8455015,1.2989432,Other
+210,Flutes,4.1,Modern European,3,Dhoby Ghaut,103.8455015,1.2989432,Western
+211,Som Tam,4.3,"Thai, Asian Fusion",2,Somerset,-2.9262307,51.105097,Other
+212,Paulaner Bräuhaus Singapore,3.6,"German, Beer Bar",2,City Hall,not available,not available,Other
+213,Ma Maison,4.5,Asian Fusion,2,Alexandra,28.0984878,-26.1049418,Other
+214,Amber Restaurant,4.2,Indian,1,Little India,103.851819,1.3065597,Indian
+215,Flying Monkey,4.1,"Indian, Cocktail Bars",3,Arab Street,103.8581619,1.3023026,Indian
+216,Super Siam Thai Restaurant,4,Thai,1,Clarke Quay,103.8464742,1.2906024,Other
+217,Employees Only,4.2,"Bars, American",3,Raffles Place,103.8513447,1.2844837,Western
+218,Su Korean Cuisine,5,Korean,1,Orchard,not available,not available,Other
+219,The Clueless Goat,4.1,"Coffee & Tea, Breakfast & Brunch",1,Novena,not available,not available,Other
+220,Saveur,4,"French, Desserts",2,Bugis,not available,not available,French
+221,Tandoori Corner North Indian Curry House,4.4,Indian,2,Novena,not available,not available,Indian
+222,Goldhill Family Restruant,5,Singaporean,1,Hougang,103.8862529,1.3612182,Singaporean
+223,Sanpoutei Ramen,4.1,Ramen,2,Holland Village,103.7951937,1.310912,Japanese
+224,Syun,4.4,Japanese,3,Sentosa,103.8303209,1.2494041,Japanese
+225,Old Hen Kitchen,4.7,Cafes,2,Farrer Park,28.2424291,-26.247152,Other
+226,Chin Chin Restaurant,3.8,"Chinese, Coffee & Tea",1,Bugis,not available,not available,Chinese
+227,Hong Chang Eating House,5,Chinese,2,Serangoon,103.8678708,1.3553567,Chinese
+228,Whampoa Keng,4,Teochew,2,Farrer Park,28.2424291,-26.247152,Other
+229,Westlake,3.8,Chinese,2,Bukit Timah,103.8020777,1.3294113,Chinese
+230,The Butcher's Wife,4.5,not available,not available,"19 Yong Siak St, Singapore 168650",103.8301992,1.2827407,Other
+231,Little Elephant SG,4.2,Thai,2,"57 Eng Hoon St, #01-72, Singapore 160057",103.8335678,1.2845571,Other
+232,Ristorante Luka - Tanjong Pagar,4.3,Italian,not available,"18 Tg Pagar Rd, Singapore 088441",103.8438547,1.2799892,Italian
+233,98 Bistro,4.9,Bistro,not available,"85 Kampong Bahru Rd, #01-01, Singapore 169380",103.8355282,1.2762126,Other
+234,DANIU TEOCHEW SEAFOOD RESTAURANT,4.2,Seafood,not available,"61 Kampong Bahru Rd, Singapore 169368",103.835969,1.2765699,Other
+235,Loulou - French Cuisine & Wine Bar,4.5,French,not available,"6 Keong Saik Rd., Singapore 089114",103.841602,1.2794509,French
+236,Hua Bee Restaurant,3.8,Chinese,1,"78 Moh Guan Terrace, #01-19 Block 78, Singapore 162078",103.8303519,1.2836475,Chinese
+237,Olivia Restaurant & Lounge,4.1,not available,3,"55 Keong Saik Rd., #01-03, Singapore 089158",103.8415896,1.2806358,Other
+238,Good Eat’s Family Restaurant,3.5,Chinese,1,"1 Tanjong Pagar Plz, #01-40, Singapore 082001",103.8429367,1.2754419,Chinese
+239,Restaurant Fiz,4.8,Fine Dining,3,"21 Tg Pagar Rd, #01-01/02 Next to the Fairfield Methodist Church, Singapore 088444",103.8440099,1.2796868,Other
+240,Deen Restaurant Indian Muslim Food,4.4,Indian,1,"7 Everton Park, Block 7, Singapore 080007",103.8389426,1.2769999,Indian
+241,House of Peranakan Petit,4.2,Nyonya,2,"42 Eng Hoon St, Estate 169785",103.8343799,1.283767,Other
+242,Angie's Oyster Bar & Grill,4.2,not available,not available,"313 Outram Rd, #02-01 Tan Boon Liat Building, Singapore 169073",103.8346657,1.2871692,Other
+243,Torio Japanese Restaurant,4.4,Japanese,3,"50 Tiong Bahru Rd, #01-01 Link Hotel, Singapore 168733",103.83395,1.2853433,Japanese
+244,Thirty9,4.7,Italian,not available,"39 Duxton Hill, Singapore 089617",103.8427483,1.2784988,Italian
+245,Sawasdee Thai Restaurant,4.3,Thai,2,"6 Trengganu St, Singapore 058460",103.8442614,1.2832653,Other
+246,Restaurant Euphoria,4.4,not available,3,"76 Tras St, Singapore 079015",103.8441306,1.2774708,Other
+247,Lucca's Trattoria,4.4,Italian,not available,"77 Tiong Bahru Rd, Singapore 168727",103.8336154,1.2851118,Italian
+248,Ah Orh Seafood Restaurant,3.9,Chinese,2,"115 Jalan Bukit Merah, #01-1627, Singapore 160115",103.8264693,1.2811564,Chinese
+249,Burma Social,4.5,Pan-Asian,not available,"34 Tras St, Singapore 079026",103.8443169,1.2784477,Other
+250,Hoàng Hâu - Vietnamese Restaurant,4.6,Vietnamese,1,"146 01, 1090 Jalan Bukit Merah, Block 146, Singapore 160146",103.8303497,1.2777732,Vietnamese
+251,Bar-Roque Grill,4.6,French,3,"165 Tg Pagar Rd, #01-00, Singapore 088539",103.8436042,1.275521,French
+252,MIZ Japanese Restaurant,4.6,Japanese,2,"17 Kampong Bahru Rd, Singapore 169347",103.8366514,1.2772129,Japanese
+253,The Corner Grill,4.7,not available,not available,"1 Ann Siang Hill, Singapore 069784",103.8453457,1.2815884,Other
+254,Etna Italian Restaurant (Duxton),4.5,Italian,not available,"49/50 Duxton Rd, Singapore 089513",103.8433345,1.2783225,Italian
+255,MERCI MARCEL TIONG BAHRU,4.7,French,not available,"56 Eng Hoon St, #01-68, Singapore 160056",103.8336932,1.2844364,French
+256,Esquina,4.4,Spanish,3,"16 Jiak Chuan Rd, Singapore 089267",103.8420714,1.2798595,Spanish
+257,Kra Pow Thai Restaurant (Chinatown Point),4.2,Thai,1,"133 New Bridge Rd, #02-39 Chinatown Point, Singapore 059413",103.8447228,1.2852093,Other
+258,De Golden Spoon Seafood 金匙小厨,4.1,Chinese,2,"62 Seng Poh Ln, #01-11, Singapore 160062",103.8333817,1.2837731,Chinese
+259,"The Feather Blade | Steak, Burgers & Cocktail Bar",4.6,not available,2,"61 Tg Pagar Rd, Singapore 088482",103.8438801,1.278353,Other
+260,Ann's Gourmet Place,4.3,not available,not available,"7 Keppel Rd, #01-25, Singapore 089054",103.8427666,1.27195,Other
+261,Kok Sen Restaurant,4.1,Singaporean,2,"Keong Saik Rd., 4, Singapore 089110",103.8416097,1.2794333,Singaporean
+262,The Prince (formerly Fat Prince) | Modern Arabic & Middle Eastern Restaurant,4.2,Middle Eastern,2,"48 Peck Seah St, Singapore 079317",103.844885,1.2779306,Middle Eastern
+263,G&B Bistro,4,Italian,2,"321 Alexandra Rd, #01-06 Alexandra Central, Singapore 159971",103.8054155,1.2873275,Italian
+264,Bam! Restaurant,4.5,not available,3,"38 Tras St, Singapore 078977",103.8442916,1.278406,Other
+265,Beurre@23,4.5,Western,not available,"23 Bukit Pasoh Rd, Singapore 089837",103.840518,1.279057,Western
+266,Man Man Japanese Unagi Restaurant,4.4,Japanese,2,"1 Keong Saik Rd., #01-01, Singapore 089109",103.8413437,1.2788714,Japanese
+267,Lolla,4.4,not available,3,"22 Ann Siang Rd, Singapore 069702",103.845602,1.2809785,Other
+268,Zén,4.6,not available,3,"41 Bukit Pasoh Rd, Singapore 089855",103.8403607,1.2794687,Other
+269,Gravy Restaurant and Bar,4.6,Indian,2,"1 Hoe Chiang Rd, Singapore 089310",103.8426192,1.2740302,Indian
+270,Firangi Superstar,4.3,Indian,3,"20 Craig Rd, #01-03, Singapore 089692",103.8425009,1.2777534,Indian
+271,Naked Finn,4.3,Seafood,3,"39 Malan Rd, Gillman Barracks, Singapore 109442",103.8044092,1.2761698,Other
+272,Coucou Authentic Swiss Restaurant and Bar,4.5,Swiss,not available,"9 Craig Rd, Singapore 089669",103.842759,1.2776438,Other
+273,Sona's Grill Restaurant,4.7,Indian,2,"12 Gopeng St, #01- 82/83 Icon Village, Singapore 078877",103.8443917,1.2753013,Indian
+274,OPIO Kitchen & Bar,4.3,Western,2,"991B Alexandra Rd, Singapore 119970",103.8033931,1.2738095,Western
+275,1929 @ Keong Saik Restaurant & Bar,4.4,not available,not available,"50 Keong Saik Rd., Hotel 1929, Singapore 089154",103.8418042,1.2807919,Other
+276,Sum Kee Food,4.2,Chinese,2,"2 Telok Blangah Street 31, Singapore 108942",103.8063851,1.2724179,Chinese
+277,Super Loco Robertson Quay,4.3,Mexican,not available,"60 Robertson Quay, #01-13 The Quayside, Singapore 238252",103.8393066,1.2899607,Mexican
+278,Shikar,4.2,Indian,3,"2 Cook St, Maxwell Reserve, Singapore 078857",103.8444069,1.2789611,Indian
+279,Restaurant Reve - Singapore,4.6,Fine Dining,3,"39 Kreta Ayer Rd, #01-01, Singapore 089002",103.8421136,1.2808874,Other
+280,Xin Cuisine Chinese Restaurant,4.5,Chinese,not available,"317 Outram Rd, Singapore 169075",103.8346141,1.2889324,Chinese
+281,Ahāra,4.7,Indian,3,"20 Teck Lim Rd, Singapore 088391",103.8418996,1.2805768,Indian
+282,Po,4.5,Singaporean,3,"320 Havelock Rd, Singapore 169628",103.8375062,1.2892267,Singaporean
+283,Bar-A-Thym Restaurant by Francois Mermilliod,4.4,French,3,"18 Gemmill Ln, Singapore 069255",103.8471694,1.2822684,French
+284,Por Kee Eating House 1996,4.2,Chinese,2,"69 Seng Poh Ln, #01-02, Singapore 160069",103.8328017,1.2841687,Chinese
+285,Mouth Restaurant - 地茂馆,3.9,Cantonese,not available,"38 Maxwell Rd, #01-01/02 Airview Building, Air View Building, Singapore 069116",103.8451038,1.2790836,Other
+286,Beast & Butterflies,4.1,Fusion,2,"90 Robertson Quay, Level 1, Singapore 238259",103.836866,1.2902915,Other
+287,L & A Western Food,3.6,not available,not available,"12 Telok Blangah Cres, #01-91, Singapore 090012",103.8191972,1.2770361,Other
+288,FOC Restaurant,4.5,Spanish,3,"40 Hongkong St, Singapore 059679",103.847462,1.2873167,Spanish
+289,Bigmama Korean Restaurant,4,Korean,2,"2 Kim Tian Rd, Singapore 169244",103.829291,1.2852782,Other
+290,Fatt Leong Private Kitchen,4.9,not available,3,"82 Tiong Poh Rd, #01-15, Singapore 160082",103.833634,1.2832596,Other
+291,Long Ji Zi Char,4.2,Chinese,2,"253 Outram Rd, Singapore 169049",103.834911,1.2848716,Chinese
+292,CENZO,4.5,Italian,not available,"81 Club St, Singapore 069449",103.8458084,1.2818634,Italian
+293,Chef Foong Cantonese Cuisine Seafood Restaurant Lower Delta,4.2,not available,2,"1080 Lower Delta Rd, Singapore 169311",103.8233547,1.2807977,Other
+294,The Southbridge Hotel Restaurant and Whiskey Bar,4.1,not available,2,"210 South Bridge Rd, Singapore 058759",103.8458262,1.2833616,Other
+295,Hopscotch (Gillman Barracks),4.6,not available,2,"45 Malan Rd, Singapore 109455",103.8039026,1.2746282,Other
+296,Lee Lai Jiak - Authentic Taste of Taiwan,4.1,Taiwanese,not available,"302 Tiong Bahru Rd, #02-105 Tiong Bahru Plaza, Singapore 168732",103.8278436,1.2863307,Taiwanese
+297,Ristorante Palermo,4.3,not available,not available,"2 Keppel Bay Vista, #02-03, Singapore 098382",103.8124338,1.2640047,Other
+298,Zi Yean Restaurant,3.9,Cantonese,2,"56 Lengkok Bahru, #01-443, Singapore 150056",103.8143642,1.2879413,Other
+299,Restaurant Born,4.8,Fine Dining,3,"1 Neil Rd, #01-01, Singapore 088804",103.8438899,1.2803733,Other
+300,Nanbantei Japanese Restaurant (Chinatown Point),4.5,Japanese,not available,"133 New Bridge Rd, #02-40 Chinatown Point, Singapore 059413",103.8450154,1.2855584,Japanese
+301,Imperial Restaurant,4.3,Chinese,2,"382 Havelock Rd, Singapore 169629",103.8365075,1.2894144,Chinese
+302,The Tavern Restaurant,4.1,not available,not available,"227 River Valley Rd, Singapore 238285",103.8423604,1.2938406,Other
+303,Grand Shanghai Restaurant,4.3,Chinese,3,"390 Havelock Rd, Level 1 King's Centre, Singapore 169662",103.8358913,1.2896087,Chinese
+304,Atmosphere Thai Bistro & Bar,4.2,not available,2,"102 Henderson Rd, Community Hall @ Sprout Hub, Singapore 159562",103.8193808,1.2844871,Other
+305,Botany Robertson Quay,4.1,not available,2,"86 Robertson Quay, #01-03 Next to M Social Hotel, Singapore 238245",103.836943,1.2902226,Other
+306,ANJU,4.3,Korean,3,"62 Tras St, Singapore 079001",103.8442373,1.2778061,Other
+307,Miznon Singapore,4.4,Israeli,2,"6 Stanley St, #01-01, Singapore 068725",103.847797,1.279986,Middle Eastern
+308,Birds of a Feather,4.4,not available,2,"115 Amoy St, #01-01, Singapore 069935",103.8475758,1.282205,Other
+309,Le Jardin Restaurant,4.1,Western,not available,"5 Cox Terrace, Level 2 Fort Canning Arts Centre, Singapore 179620",103.8469286,1.2947615,Western
+310,Suzuki Restaurant,5,not available,3,"83 Neil Rd, #01-09 Mondrian Hotel, Singapore 089813",103.8419283,1.2789787,Other
+311,"Shabestan, Finest Persian Restaurant",4.4,Persian,3,"80 Mohamed Sultan Rd, #01-13, Singapore 239013",103.8405841,1.2910376,Middle Eastern
+312,Cure,4.6,Fine Dining,3,"21 Keong Saik Rd., Singapore 089128",103.8414179,1.2797846,Other
+313,Owen Seafood Restaurant,4.1,Seafood,3,"401 Havelock Rd, #03-00 Hotel Miramar, Singapore 169631",103.8374675,1.2881477,Other
+314,Dallas Restaurant and Bar (Boat Quay),4.3,not available,not available,"31 Boat Quay, Singapore 049820",103.8497763,1.2861237,Other
+315,Ma Cuisine,4.6,French,3,"38 Craig Rd, Singapore 089676",103.8418175,1.2783104,French
+316,Mimi Restaurant,4.3,Chinese,not available,"3A River Valley Rd, #01-02 (Level 2 Clarke Quay, The Riverhouse, Singapore 179020",103.845212,1.2900386,Chinese
+317,Guiga Korean BBQ Restaurant,4.3,Korean,2,"134 Tg Pagar Rd, Singapore 088538",103.8435052,1.2774716,Other
+318,Ms. Maria & Mr. Singh (Singapore),4.3,not available,3,"43 Craig Rd, Singapore 089681",103.8420323,1.2781083,Other
+319,UNA at The Alkaff Mansion,4.5,Spanish,3,"10 Telok Blangah Green, Level 2, Singapore 109178",103.813289,1.278877,Spanish
+320,Vespetta Italian Restaurant,4.3,"
+Italian restaurant",not available,"40 Boat Quay, Singapore 049829",103.8495694,1.2865664,Italian
+321,Alati Divine Greek Cuisine,4.5,Seafood,3,"73 Amoy St, Singapore 069892",103.8467476,1.2803412,Other
+322,Ah Yat Seafood Restaurant,4,Seafood,not available,"401 Havelock Rd, #03-00 Hotel Miramar, Singapore 169631",103.8373752,1.2884678,Other
+323,Abundance: Taiwanese Restaurant & Craft Beer Bar (Redhill),4.3,Taiwanese,2,"63A Lengkok Bahru, #01-378, Singapore 151063",103.8153757,1.289692,Taiwanese
+324,Charlie's Restaurant & Bar (Boat Quay),4.2,not available,2,"32 Boat Quay, Singapore 049821",103.8498206,1.2862228,Other
+325,Inle Myanmar Restaurant,4,Burmese,1,"111 North Bridge Rd, #B1-07A Peninsula Plaza, Singapore 179098",103.8507451,1.2921178,Other
